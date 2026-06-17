@@ -53,3 +53,9 @@ All figures are saved to `output/figures/` and model result tables to `output/ta
 ├── LICENSE-DATA
 └── README.md
 ```
+
+---
+
+## Licenses
+**Code**: Published under MIT License (LICENSE)
+**Data**: Published under CC-BY 4.0
