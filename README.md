@@ -38,7 +38,7 @@ All figures are saved to `output/figures/` and model result tables to `output/ta
 ### github repository content
 .
 ├── data/
-    └── [Download from Zenodo]
+    └── Zenodo: 10.5281/zenodo.18016074
 ├── output/
 │   ├── figures/
 │   └── tables/
