@@ -17,6 +17,8 @@ pacman::p_load(
   devtools, tidyverse, metafor, patchwork, R.rsp, orchaRd, emmeans, ape, phytools, flextable
   )
 
+# Restore package versions: uncomment if needed
+# renv::restore()
 
 # libraries----
 library(zen4R)
@@ -3218,7 +3220,7 @@ final_plot_overall
 
 # export
 png(
-  "output/figures/fig3_overall_effects.png",
+  "output/figures/fig2_overall_effects.png",
   height = 55 * 2 / 4,
   width = 45 * 3 / 4,
   units = "cm",
@@ -3250,7 +3252,7 @@ final_plot_taxa
 
 # export
 png(
-  "output/figures/fig4_taxa.png",
+  "output/figures/fig3_taxa.png",
   height = 55 * 2 / 4 + 10,
   width = 45,
   units = "cm",
@@ -3287,7 +3289,7 @@ main_effects <-
 main_effects
 
 png(
-  "output/figures/fig5_main_effects.png",
+  "output/figures/fig4_main_effects.png",
   height = 55 * 2 / 3,
   width = 45,
   units = "cm",
@@ -3353,7 +3355,7 @@ interactions
 
 
 png(
-  "output/figures/fig6_interactions.png",
+  "output/figures/fig5_interactions.png",
   height = 55,
   width = 45,
   units = "cm",
