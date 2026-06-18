@@ -40,18 +40,24 @@ All figures are saved to `output/figures/` and model result tables to `output/ta
 
 ### github repository content
 ```r
-.
-├── data/
+├── data
 │   └── Zenodo: https://doi.org/10.5281/zenodo.18016074
-├── output/
-│   ├── figures/
-│   └── tables/
-├── R/
+├── img
+│   ├── beetle_img.png
+│   └── spider_img.png
+├── output
+│   ├── figures
+│   └── tables
+├── R
 │   └── Rcode_meta_analysis_dietzel_et_al.R
+├── renv
+│   ├── activate.R
+│   ├── library
 ├── dietzel_et_al_2026_flower_strips_AGEE.Rproj
+├── README.md
 ├── LICENSE
 ├── LICENSE-DATA
-└── README.md
+└── renv.lock
 ```
 
 ---
