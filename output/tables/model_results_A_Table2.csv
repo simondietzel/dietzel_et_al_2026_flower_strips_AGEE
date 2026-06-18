@@ -1,0 +1,44 @@
+"Model";"Factor_level";"σ_2";"Q";"Q_df";"Q_pval";"k";"AICc";"Factor";"Estimate";"SE";"z";"ci.lb";"ci.ub";"pval"
+"Beetle abundance - Overall effect";"lit_id";0.599949444953226;270.722;94;"<0.0001";95;267.5;"intrcpt";0.346;0.161711908416096;2.14;0.029;0.663;0.032
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"intrcpt";10.728;4.20792334553333;2.549;2.481;18.975;0.011
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"aes_age";-0.126;0.0590745108268184;-2.135;-0.242;-0.01;0.033
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"pr_sum";-0.001;0.000618051049495886;-1.682;-0.002;0;0.093
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"pr_winter";0.003;0.00178037237436801;1.613;-0.001;0.006;0.107
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"tas_mean";-1.179;0.488283165991872;-2.414;-2.136;-0.222;0.016
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"tas_winter";0.45;0.254207175624743;1.77;-0.048;0.948;0.077
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"land_div";-14.804;5.80422975977093;-2.55;-26.18;-3.427;0.011
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"taxoncoccinellidae";-1.163;0.315289799349939;-3.69;-1.781;-0.545;0
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"taxonothers";-0.754;0.565091923580974;-1.334;-1.861;0.354;0.182
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"taxonstaphylinidae";0.021;0.215129775723373;0.096;-0.401;0.442;0.924
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"tas_mean:land_div";1.878;0.689330285608129;2.725;0.527;3.229;0.006
+"Beetle abundance - Minimal model";"lit_id";1.28608624184567;181.091;62;"<0.0001";74;190.4;"tas_winter:land_div";-0.973;0.406149802343738;-2.395;-1.769;-0.177;0.017
+"Beetle species richness - Overall effect";"lit_id";0.814994210577079;240.485;56;"<0.0001";57;196.2;"intrcpt";0.877;0.240388904446707;3.648;0.406;1.348;0.000264298047815861
+"Beetle species richness - Overall effect";"lit_id/effect_id";0.477284310613481;240.485;56;"<0.0001";57;196.2;"intrcpt";0.877;0.240388904446707;3.648;0.406;1.348;0.000264298047815861
+"Beetle species richness - Minimal model";"lit_id";0.66214053686395;156.732;47;"<0.0001";57;172.9;"intrcpt";-1.344;1.84463003551529;-0.728;-4.959;2.272;0.466
+"Beetle species richness - Minimal model";"lit_id/effect_id";0.174249885726438;156.732;47;"<0.0001";57;172.9;"pr_sum";-0.004;0.00176820903244587;-2.177;-0.007;0;0.029
+"Beetle species richness - Minimal model";"lit_id";0.66214053686395;156.732;47;"<0.0001";57;172.9;"pr_winter";0.003;0.00181501556132712;1.906;0;0.007;0.057
+"Beetle species richness - Minimal model";"lit_id/effect_id";0.174249885726438;156.732;47;"<0.0001";57;172.9;"tas_winter";1.058;0.329138012331452;3.214;0.413;1.703;0.001
+"Beetle species richness - Minimal model";"lit_id";0.66214053686395;156.732;47;"<0.0001";57;172.9;"land_div";0.86;3.68647315965859;0.233;-6.366;8.085;0.816
+"Beetle species richness - Minimal model";"lit_id/effect_id";0.174249885726438;156.732;47;"<0.0001";57;172.9;"taxoncoccinellidae";-3.583;0.973094478389451;-3.682;-5.49;-1.676;0
+"Beetle species richness - Minimal model";"lit_id";0.66214053686395;156.732;47;"<0.0001";57;172.9;"taxonothers";0.649;0.613395599817892;1.058;-0.553;1.851;0.29
+"Beetle species richness - Minimal model";"lit_id/effect_id";0.174249885726438;156.732;47;"<0.0001";57;172.9;"taxonstaphylinidae";-0.013;0.307549251101562;-0.041;-0.615;0.59;0.967
+"Beetle species richness - Minimal model";"lit_id";0.66214053686395;156.732;47;"<0.0001";57;172.9;"tas_winter:land_div";-1.903;0.668276319820903;-2.847;-3.212;-0.593;0.004
+"Beetle species richness - Minimal model";"lit_id/effect_id";0.174249885726438;156.732;47;"<0.0001";57;172.9;"pr_sum:land_div";0.008;0.00362130090629552;2.258;0.001;0.015;0.024
+"Spider abundance - Overall effect";"lit_id";0.496960381609177;162.091;70;"<0.0001";71;186.3;"intrcpt";0.491;0.178199458861343;2.755;0.142;0.84;0.006
+"spider abundance - Minimal model";"lit_id";0.480486775300458;139.848;64;"<0.0001";71;181;"intrcpt";1.569;0.849400653066811;1.848;-0.095;3.234;0.065
+"spider abundance - Minimal model";"lit_id";0.480486775300458;139.848;64;"<0.0001";71;181;"pr_winter";-0.004;0.00234564607062589;-1.712;-0.009;0.001;0.087
+"spider abundance - Minimal model";"lit_id";0.480486775300458;139.848;64;"<0.0001";71;181;"land_div";-2.76;1.57317545981862;-1.755;-5.844;0.323;0.079
+"spider abundance - Minimal model";"lit_id";0.480486775300458;139.848;64;"<0.0001";71;181;"taxonlinyphiidae";-0.123;0.276903918421742;-0.445;-0.666;0.419;0.656
+"spider abundance - Minimal model";"lit_id";0.480486775300458;139.848;64;"<0.0001";71;181;"taxonlycosidae";0.448;0.280162215874738;1.599;-0.101;0.997;0.11
+"spider abundance - Minimal model";"lit_id";0.480486775300458;139.848;64;"<0.0001";71;181;"taxonothers";-0.036;0.235950720094876;-0.153;-0.499;0.426;0.878
+"spider abundance - Minimal model";"lit_id";0.480486775300458;139.848;64;"<0.0001";71;181;"pr_winter:land_div";0.01;0.00457501919637218;2.181;0.001;0.019;0.029
+"Spider species richness - Overall effect";"lit_id";0.453286979648645;138.936;35;"<0.0001";36;111.6;"intrcpt";0.408;0.243201502163263;1.679;-0.068;0.885;0.093
+"Spider species richness - Overall effect";"lit_id/effect_id";0.492516185654476;138.936;35;"<0.0001";36;111.6;"intrcpt";0.408;0.243201502163263;1.679;-0.068;0.885;0.093
+"Spider species richness - Minimal model";"lit_id";0.614943211324894;42.695;17;"0.0005";24;71;"intrcpt";-3.283;1.876;-1.75;-6.96;0.394;0.08
+"Spider species richness - Minimal model";"lit_id/effect_id";1.81038666733309e-09;42.695;17;"0.0005";24;71;"plant_rich";-0.071;0.023;-3.132;-0.116;-0.027;0.002
+"Spider species richness - Minimal model";"lit_id";0.614943211324894;42.695;17;"0.0005";24;71;"aes_age";0.401;0.096;4.18;0.213;0.589;0
+"Spider species richness - Minimal model";"lit_id/effect_id";1.81038666733309e-09;42.695;17;"0.0005";24;71;"land_div";8.084;3.092;2.615;2.024;14.144;0.009
+"Spider species richness - Minimal model";"lit_id";0.614943211324894;42.695;17;"0.0005";24;71;"tas_winter";0.901;0.37;2.435;0.176;1.625;0.015
+"Spider species richness - Minimal model";"lit_id/effect_id";1.81038666733309e-09;42.695;17;"0.0005";24;71;"taxonothers";-0.199;0.67;-0.297;-1.512;1.114;0.766
+"Spider species richness - Minimal model";"lit_id";0.614943211324894;42.695;17;"0.0005";24;71;"land_div:tas_winter";-1.471;0.651;-2.261;-2.746;-0.196;0.024
+"Spider species richness - Minimal model";"lit_id/effect_id";1.81038666733309e-09;42.695;17;"0.0005";24;71;"space_to_fill";NA;NA;NA;NA;NA;NA

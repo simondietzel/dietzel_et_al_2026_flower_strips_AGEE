@@ -1,0 +1,5 @@
+"Model";"Factor_level";"Variance";"Estimate";"SD";"Levels";"k";"Model_inclusion"
+"Spider abundance";"lit_id";"σ ^2";0.38;0.616;23;71;"mandatory"
+"Spider abundance";"lit_id/year";"σ ^2";0;0;38;71;"excluded"
+"Spider abundance";"lit_id/year/taxon";"σ ^2";0.099;0.315;55;71;"in fixed model term"
+"Spider abundance";"lit_id/year/taxon/effect_id";"σ ^2";0.086;0.293;71;71;"excluded"

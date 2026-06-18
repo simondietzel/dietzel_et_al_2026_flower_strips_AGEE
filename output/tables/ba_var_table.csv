@@ -1,0 +1,5 @@
+"Model";"Factor_level";"Variance";"Estimate";"SD";"Levels";"k";"Model_inclusion"
+"Beetle abundance";"lit_id";"σ ^2";0.462;0.68;30;95;"mandatory"
+"Beetle abundance";"lit_id/year";"σ ^2";0;0;50;95;"excluded"
+"Beetle abundance";"lit_id/year/taxon";"σ ^2";0.215;0.464;78;95;"in fixed model term"
+"Beetle abundance";"lit_id/year/taxon/effect_id";"σ ^2";0.008;0.09;95;95;"excluded"
