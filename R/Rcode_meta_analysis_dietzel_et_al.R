@@ -18,6 +18,7 @@ pacman::p_load(
   )
 
 # Restore package versions: uncomment if needed
+# library(renv)
 # renv::restore()
 
 # libraries----
@@ -34,7 +35,7 @@ library(png)
 library(performance)
 library(MuMIn)
 library(grid)
-library(renv)
+
 
 # solve conflicting functions----
 conflict_prefer("filter", "dplyr")
