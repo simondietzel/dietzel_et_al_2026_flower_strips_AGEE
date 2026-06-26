@@ -1,7 +1,7 @@
 # Data and Code for Dietzel et al., 2026
 
 ## Publication
-Synergistic effects of flower strips and landscape complexity buffer arthropods against warming and drought – A meta-analysis. Agriculture, Ecosystems & Environment. https://doi.org/10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx.
+Synergistic effects of flower strips and landscape complexity buffer arthropods against warming and drought – A meta-analysis. Agriculture, Ecosystems & Environment. https://doi.org/10.1016/j.agee.2026.110617.
 
 Simon Dietzel <a href="https://orcid.org/0000-0003-4319-8195"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16"/></a>
 Péter Batáry <a href="https://orcid.org/0000-0002-1017-6996"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16"/></a>
@@ -19,10 +19,10 @@ This repository contains the R code to reproduce all analyses and figures of the
 
 ## Citation
 **Paper**
-Dietzel S, Batáry P, Twerski A, Kirmer A, Kollmann J & Fischer C (2026). Synergistic effects of flower strips and landscape complexity buffer arthropods against warming and drought – A meta-analysis. Agriculture, Ecosystems & Environment (xx). https://doi.org/xxx.yyy
+Dietzel S, Batáry P, Twerski A, Kirmer A, Kollmann J & Fischer C (2026). Synergistic effects of flower strips and landscape complexity buffer arthropods against warming and drought – A meta-analysis. Agriculture, Ecosystems & Environment (xx). https://doi.org/10.1016/j.agee.2026.110617
 
 **Dataset**
-Dietzel S (2026). Synergistic effects of flower strips and landscape complexity buffer arthropods against warming and drought – Raw data. Zenodo. https://doi.org/10.5281/zenodo.18016074.
+Dietzel S (2026). Synergistic effects of flower strips and landscape complexity buffer arthropods against warming and drought – Raw data. Zenodo. https://doi.org/10.5281/zenodo.18016073.
 
 ---
 
@@ -41,7 +41,7 @@ All figures are saved to `output/figures/` and model result tables to `output/ta
 ### github repository content
 ```r
 ├── data
-│   └── Zenodo: https://doi.org/10.5281/zenodo.18016074
+│   └── Zenodo: https://doi.org/10.5281/zenodo.18016073
 ├── img
 │   ├── beetle_img.png
 │   └── spider_img.png
