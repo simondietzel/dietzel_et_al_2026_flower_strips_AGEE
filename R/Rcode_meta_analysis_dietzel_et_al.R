@@ -46,7 +46,7 @@ conflict_prefer("update", "stats")
 ## download from Zenodo----
 zenodo <- ZenodoManager$new()
 download_zenodo(path = "data/",
-                "10.5281/zenodo.18016074",
+                "10.5281/zenodo.18016073",
                 timeout = 3600)
 
 ## read data----
