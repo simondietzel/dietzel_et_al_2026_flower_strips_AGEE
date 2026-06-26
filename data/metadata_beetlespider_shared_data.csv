@@ -1,0 +1,24 @@
+﻿variable;type;unit;description
+effect_id;factor;;unique ID for each single effect (row number)
+lit_id;factor;;unique ID for each included study
+authors;factor;;name of the first author
+taxon;factor;;beetle and spider family investigated in the studies
+tax_group;factor;;taxonomic group: beetles/spiders
+year;factor;;year of sampling
+t_abund;numeric;individuals;mean number of individuals found in the treatment sites (flower strips and fields)
+t_abund_sd;numeric;;standard deviation of t_abund
+c_abund;numeric;individuals;mean number of individuals found in the control sites (flower strips and fields)
+c_abund_sd;numeric;;standard deviation of c_abund
+t_rich;numeric;species;mean number of species found in the treatment sites (flower strips and fields)
+t_rich_sd;numeric;;standard deviation of t_rich
+c_rich;numeric;species;mean number of species found in the control sites (flower strips and fields)
+c_rich_sd;numeric;;standard deviation of c_rich
+t_sites;integer;;number of treatment sites (single fields where samling took place)
+c_sites;integer;;number of control sites (single fields where samling took place)
+aes_age;integer;years;age of the investigated treatment site, where the firstt year = first vegetation period (e,g, when sown in the previous autumn)
+plant_rich;integer;;number of plant species (herbs + grasses) sown via the flower mixtures
+land_div;numeric;;in the manuscript referred to as landscape complexity: shannon diversity of level-one land-use classes and area within a buffer of 1000 m (mean of all sites per study). source corine land cover EU copernicus project. https://land.copernicus.eu/en/products/corine-land-cover
+tas_mean;numeric;degree_celsius;annual temperature (calculated from monthly means across all sites per study). source: CHELSA database. https://www.chelsa-climate.org/
+tas_winter;numeric;degree_celsius;winter temperature from november to march previous to sampling (monthly mean across all sites per study). source: CHELSA database.  https://www.chelsa-climate.org/
+pr_sum;numeric;mm;annual precipitation sum (mean across all sites per study). source: CHELSA database. https://www.chelsa-climate.org/
+pr_winter;numeric;mm;winter precipitation sum  from november to march previous to sampling (mean across all sites per study). source: CHELSA database. https://www.chelsa-climate.org/
